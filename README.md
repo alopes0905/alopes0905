@@ -20,8 +20,8 @@ Final-year BSc student in Computer Science & Engineering, focused on building re
 
 ---
 
-## Featured Work
-> A small selection of projects I’m most proud of (details + setup instructions inside each repo).
+## Featured Projects
+A small selection of projects I’m most proud of (details + setup instructions inside each repo).
 
 ### 1) **PROJECT_NAME**
 **What it is:** One sentence description.  
