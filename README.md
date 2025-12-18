@@ -1,10 +1,4 @@
-# Welcome, I am André Lopes
-<!--
-Profile README: create a PUBLIC repo named exactly: YOUR_GITHUB_USERNAME
-Put this as README.md inside it.
--->
-
-<h1 align="left">Hi, I'm João</h1>
+<h1 align="left">Welcome, I am André Lopes</h1>
 
 <p align="left">
 Final-year BSc student in Computer Science & Engineering, focused on building reliable software and strong networked systems.
