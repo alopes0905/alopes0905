@@ -4,6 +4,7 @@
   <b>Final-year BSc in Computer Science & Engineering @ IST Lisbon</b> · IT Operations (manufacturing / ICS-OT exposure) · Networking & systems · MSc (Cybersecurity/CS) applicant<br/>
   
   <code>Python</code> <code>Java</code> <code>C/C++</code> <code>Linux</code> <code>TCP/IP</code> <code>DNS/DHCP</code> <code>Wireshark</code> <code>Git</code> <code>Bash</code><br/>
+  
   🔎 Interests: secure systems · operations · reliability
 </p>
 
@@ -36,8 +37,8 @@
 ---
 
 ### Background
-- **IST Lisbon — BSc in Computer Science & Engineering (GPA: 15/20)**  
-  Coursework highlights: OOP (18/20), Logic for Programming (18/20), Computer Architecture (16/20), Computer Networks (in progress)
+- **IST Lisbon — BSc in Computer Science & Engineering**  
+  Coursework highlights: OOP, Logic for Programming, Computer Architecture, Computer Networks
 - **University of Hong Kong (HKU) — Digital Transformation in Global Business (July 2025)**  
   Innovation + emerging technologies and strategic digital transformation
 
