@@ -2,6 +2,7 @@
 
 <p align="left">
   <b>Final-year BSc in Computer Science & Engineering @ IST Lisbon</b> · IT Operations (manufacturing / ICS-OT exposure) · Networking & systems · MSc (Cybersecurity/CS) applicant<br/>
+  
   <code>Python</code> <code>Java</code> <code>C/C++</code> <code>Linux</code> <code>TCP/IP</code> <code>DNS/DHCP</code> <code>Wireshark</code> <code>Git</code> <code>Bash</code><br/>
   🔎 Interests: secure systems · operations · reliability
 </p>
@@ -22,8 +23,9 @@
 
 ### Featured Projects
 
-- **[PROJECT 1](https://github.com/YOUR_USERNAME/REPO1)** — one-line outcome + why it’s interesting.  
-  'C/C++' · 'Sockets' · 'Concurrency'
+- **[Events-Manager](https://github.com/alopes0905/Events-Manager)** — Event manager with a custom UDP/TCP protocol and persistent server state.  
+  'C++' · 'POSIX sockets' · 'UDP/TCP' · 'Protocol design' · 'File transfer'
+
 
 - **[PROJECT 2](https://github.com/YOUR_USERNAME/REPO2)** — one-line outcome + what you optimized/learned.  
   'Python' · 'Automation' · 'Tooling'
