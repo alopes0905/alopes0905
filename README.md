@@ -25,15 +25,16 @@
 ### Featured Projects
 
 - **[Events-Manager](https://github.com/alopes0905/Events-Manager)** — Event manager with a custom UDP/TCP protocol and persistent server state.  
-  'C++' · 'POSIX sockets' · 'UDP/TCP' · 'Protocol design' · 'File transfer'
+  'C++' · 'Sockets' · 'UDP/TCP' · 'Protocol design' · 'File transfer'
 
 
 - **[KVS-POSIX-Server](https://github.com/alopes0905/KVS-POSIX-Server)** — Linux key-value store with concurrent '.j'processing, non-blocking backups, and FIFO-based client/server subscriptions + notifications.  
   'C' · 'POSIX' · 'pthreads' · 'FIFOs' · 'fork()' · 'Concurrency'
 
 
-- **[PROJECT 3](https://github.com/YOUR_USERNAME/REPO3)** — one-line outcome + scale/perf/reliability detail.  
-  'Java' · 'Backend' · `Testing'
+- **[AI-Nuruomino-Solver](https://github.com/alopes0905/AI-Nuruomino-Solver)** — Python solver for the NURUOMINO (LITS) puzzle using backtracking/search with constraint pruning to satisfy adjacency, connectivity, and 2×2 rules.  
+  'Python' · 'Backtracking/DFS' · 'Constraint pruning' · 'Search heuristics'
+
 
 ---
 
