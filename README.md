@@ -28,8 +28,9 @@
   'C++' · 'POSIX sockets' · 'UDP/TCP' · 'Protocol design' · 'File transfer'
 
 
-- **[PROJECT 2](https://github.com/YOUR_USERNAME/REPO2)** — one-line outcome + what you optimized/learned.  
-  'Python' · 'Automation' · 'Tooling'
+- **[KVS-POSIX-Server](https://github.com/alopes0905/KVS-POSIX-Server)** — Linux key-value store with concurrent '.j'processing, non-blocking backups, and FIFO-based client/server subscriptions + notifications.  
+  'C' · 'POSIX' · 'pthreads' · 'FIFOs' · 'fork()' · 'Concurrency'
+
 
 - **[PROJECT 3](https://github.com/YOUR_USERNAME/REPO3)** — one-line outcome + scale/perf/reliability detail.  
   'Java' · 'Backend' · `Testing'
