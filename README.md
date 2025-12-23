@@ -1,94 +1,67 @@
-<h1 align="left">Welcome, I am André Lopes</h1>
+<h2 align="left">André Miguel Carvalho Lopes</h2>
 
 <p align="left">
-Final-year BSc student in Computer Science & Engineering, focused on building reliable software and strong networked systems.
+  <b>Final-year BSc in Computer Science & Engineering @ IST Lisbon</b> · IT Operations (manufacturing / ICS-OT exposure) · Networking & systems · MSc (Cybersecurity/CS) applicant<br/>
+  <code>Python</code> <code>Java</code> <code>C/C++</code> <code>Linux</code> <code>TCP/IP</code> <code>DNS/DHCP</code> <code>Wireshark</code> <code>Git</code> <code>Bash</code><br/>
+  🔎 Interests: secure systems · operations · reliability
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="https://YOUR_PORTFOLIO_SITE">Portfolio</a> ·
-  <a href="https://YOUR_CV_LINK">CV</a>
+  <a href="https://www.linkedin.com/in/andre-carvalho-lopes">LinkedIn</a> ·
+  <a href="mailto:andre.carvalho.lopes@sapo.pt">Email</a> ·
+  <a href="https://github.com/alopes0905">GitHub</a>
 </p>
 
----
-
-## About
-- I enjoy working on **systems**, **networking**, and **software engineering** problems that demand clarity, performance, and correctness.
-- Current interests: **secure-by-design development**, **network protocols**, **cloud fundamentals**, **automation**.
-- I value: **clean code**, **good documentation**, **tests**, and **reproducible setups**.
-
----
-
-## Featured Projects
-A small selection of projects I’m most proud of (details + setup instructions inside each repo).
-
-### 1) **PROJECT_NAME**
-**What it is:** One sentence description.  
-**Why it matters:** What problem it solves / what you learned.  
-**Tech:** `Language` · `Framework/Lib` · `Tooling`  
-**Highlights:**
-- Bullet with a measurable result (performance, reliability, feature, scale)
-- Bullet showing engineering maturity (tests, CI, docs, architecture)
-
-➡️ Repo: https://github.com/YOUR_USERNAME/REPO_LINK  
-🎥 Demo (optional): LINK_TO_VIDEO_OR_GIF
-
-### 2) **PROJECT_NAME**
-**What it is:** One sentence description.  
-**Tech:** `...`  
-**Highlights:**
-- ...
-- ...
-
-➡️ Repo: https://github.com/YOUR_USERNAME/REPO_LINK
-
-### 3) **PROJECT_NAME**
-**What it is:** One sentence description.  
-**Tech:** `...`  
-**Highlights:**
-- ...
-- ...
-
-➡️ Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+- 🧭 **Focus:** systems + networking fundamentals, dependable software, and operational reality (availability-first constraints)
+- 🧩 **Strengths:** structured problem-solving · fast troubleshooting · clear communication · disciplined execution
+- 🏭 **Experience:** L1/L2 support + first-line network diagnostics in a manufacturing environment (ICS/OT exposure)
+- 🤝 **Leadership:** co-founder of a non-profit fundraising initiative · team captain (futsal) · volunteer work
+- 🌍 **Languages:** Portuguese (native) · English (C1 — IELTS Academic 8.0) · Spanish (intermediate) · French (basic)
 
 ---
 
-## Skills Snapshot
-**Languages:** `C/C++` · `Python` · `Java` · `SQL` · `...`  
-**Systems & Networking:** `Linux` · `TCP/IP` · `Sockets` · `Docker` · `...`  
-**Tools:** `Git` · `CI/CD` · `Testing` · `...`  
-**Concepts:** `OOP` · `Distributed systems basics` · `Performance profiling` · `...`
+### Featured Projects
 
-> I prefer listing what I can confidently use in projects and discuss in depth.
+- **[PROJECT 1](https://github.com/YOUR_USERNAME/REPO1)** — one-line outcome + why it’s interesting.  
+  'C/C++' · 'Sockets' · 'Concurrency'
 
----
+- **[PROJECT 2](https://github.com/YOUR_USERNAME/REPO2)** — one-line outcome + what you optimized/learned.  
+  'Python' · 'Automation' · 'Tooling'
 
-## What I’m working on
-- **CURRENT_THING_1:** short description + goal (e.g., “building a client/server app with robust protocol parsing”)
-- **CURRENT_THING_2:** short description + goal
+- **[PROJECT 3](https://github.com/YOUR_USERNAME/REPO3)** — one-line outcome + scale/perf/reliability detail.  
+  'Java' · 'Backend' · `Testing'
 
 ---
 
-## Notes / Writing (optional, but strong signal)
-- **TOPIC / NOTE 1:** link
-- **TOPIC / NOTE 2:** link
-- **TOPIC / NOTE 3:** link
-
-(Example topics: design decisions, protocol notes, postmortems, performance tuning, security-minded engineering.)
-
----
-
-## Education
-**BSc in Computer Science & Engineering** — Instituto Superior Técnico (IST)  
-Key coursework: `OOP` · `Computer Architecture` · `Computer Networks` · `...`
+### Background
+- **IST Lisbon — BSc in Computer Science & Engineering (GPA: 15/20)**  
+  Coursework highlights: OOP (18/20), Logic for Programming (18/20), Computer Architecture (16/20), Computer Networks (in progress)
+- **University of Hong Kong (HKU) — Digital Transformation in Global Business (July 2025)**  
+  Innovation + emerging technologies and strategic digital transformation
 
 ---
 
-## Contact
-If you’d like to discuss projects, collaboration, or opportunities:
-- Email: **YOUR_EMAIL**
-- LinkedIn: **YOUR_LINKEDIN**
+### Training
+- IBM: **Beginner’s Guide to Cybersecurity** (Apr 2025)
+- CompTIA **Network+** — aligned training (Cisco Networking Academy), exam not taken
+- CompTIA **Security+** — exam preparation (TryHackMe), exam not taken
+- HP: **Generative AI Mastery: Revolutionizing Game Development** (May 2025)
 
 ---
-<sub>Last updated: MONTH YYYY</sub>
+
+### Open to
+- Internships / junior roles in **IT operations**, **networking**, **systems**, and **security-minded engineering**
+- Hands-on projects involving **monitoring/troubleshooting**, **automation**, and **reliable deployments**
+- Collaboration on practical tooling that improves stability, visibility, or operational efficiency
+
+---
+
+### Quick links
+- 📍 Lisbon, Portugal
+- 📫 andre.carvalho.lopes@sapo.pt
+- 🔗 https://www.linkedin.com/in/andre-carvalho-lopes
+- 💻 https://github.com/alopes0905
+
+<sub>Last updated: Dec 2025</sub>
+
+
