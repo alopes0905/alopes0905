@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andre-carvalho-lopes">LinkedIn</a> ·
-  <a href="mailto:andre.carvalho.lopes@sapo.pt">Email</a> ·
+  <a href="mailto:amcarvalholopes@gmail.com">Email</a> ·
   <a href="https://github.com/alopes0905">GitHub</a>
 </p>
 
@@ -63,7 +63,7 @@
 
 ### Quick links
 - 📍 Lisbon, Portugal
-- 📫 andre.carvalho.lopes@sapo.pt
+- 📫 amcarvalholopes@gmail.com
 - 🔗 https://www.linkedin.com/in/andre-carvalho-lopes
 - 💻 https://github.com/alopes0905
 
