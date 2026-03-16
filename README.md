@@ -1,17 +1,17 @@
 <h2 align="left">André Miguel Carvalho Lopes</h2>
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/andre-carvalho-lopes">LinkedIn</a> ·
+  <a href="mailto:amcarvalholopes@gmail.com">Email</a> ·
+  <a href="https://github.com/alopes0905">GitHub</a>
+</p>
+
+<p align="left">
   <b>Final-year BSc in Computer Science & Engineering @ IST Lisbon</b> · IT Operations (manufacturing / ICS-OT exposure) · Networking & systems · MSc (Cybersecurity/CS) applicant<br/>
   
   <code>Python</code> <code>Java</code> <code>C/C++</code> <code>Linux</code> <code>TCP/IP</code> <code>DNS/DHCP</code> <code>Wireshark</code> <code>Git</code> <code>Bash</code><br/>
   
   🔎 Interests: secure systems · operations · reliability
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/andre-carvalho-lopes">LinkedIn</a> ·
-  <a href="mailto:amcarvalholopes@gmail.com">Email</a> ·
-  <a href="https://github.com/alopes0905">GitHub</a>
 </p>
 
 - 🧭 **Focus:** systems + networking fundamentals, dependable software, and operational reality (availability-first constraints)
