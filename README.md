@@ -11,14 +11,6 @@
   
   <code>Python</code> <code>Java</code> <code>C/C++</code> <code>Linux</code> <code>TCP/IP</code> <code>DNS/DHCP</code> <code>Wireshark</code> <code>Git</code> <code>Bash</code><br/>
   
-  🔎 Interests: secure systems · operations · reliability
-</p>
-
-- 🧭 **Focus:** systems + networking fundamentals, dependable software, and operational reality (availability-first constraints)
-- 🧩 **Strengths:** structured problem-solving · fast troubleshooting · clear communication · disciplined execution
-- 🏭 **Experience:** L1/L2 support + first-line network diagnostics in a manufacturing environment (ICS/OT exposure)
-- 🤝 **Leadership:** co-founder of a non-profit fundraising initiative · team captain (futsal) · volunteer work
-- 🌍 **Languages:** Portuguese (native) · English (C1 — IELTS Academic 8.0) · Spanish (intermediate) · French (basic)
 
 ---
 
