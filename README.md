@@ -1,64 +1,16 @@
-<h2 align="left">André Miguel Carvalho Lopes</h2>
+# André Carvalho Lopes
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andre-carvalho-lopes">LinkedIn</a> ·
-  <a href="mailto:amcarvalholopes@gmail.com">Email</a> ·
-  <a href="https://github.com/alopes0905">GitHub</a>
-</p>
+MSc Cybersecurity student at **Sapienza University of Rome**, with a BSc in Computer Science and Engineering from **Instituto Superior Técnico**.
 
-<p align="left">
-  <b>Final-year BSc in Computer Science & Engineering @ IST Lisbon</b> · IT Operations (manufacturing / ICS-OT exposure) · Networking & systems · MSc (Cybersecurity/CS) applicant<br/>
-  
-  <code>Python</code> <code>Java</code> <code>C/C++</code> <code>Linux</code> <code>TCP/IP</code> <code>DNS/DHCP</code> <code>Wireshark</code> <code>Git</code> <code>Bash</code><br/>
-  
+Interested in **security engineering, networked systems, and software development**. Currently based in Rome, Italy and open to remote part-time engineering opportunities.
 
----
+**Tech:** Python · Java · C/C++ · Linux · TCP/IP · gRPC · Git
 
-### Featured Projects
+## Selected projects
 
-- **[Events-Manager](https://github.com/alopes0905/Events-Manager)** — Event manager with a custom UDP/TCP protocol and persistent server state.  
-  'C++' · 'Sockets' · 'UDP/TCP' · 'Protocol design' · 'File transfer'
+- **[Mini-IDS Network Monitor](https://github.com/alopes0905/mini-ids-network-monitor)** — Python network intrusion detection tool with PCAP analysis, passive capture, rule-based alerts, and automated tests.
+- **[gRPC Permissioned Blockchain](https://github.com/alopes0905/grpc-permissioned-blockchain)** — Educational Java distributed ledger with a transaction sequencer, replicated nodes, and RSA signatures.
+- **[KVS POSIX Server](https://github.com/alopes0905/kvs-posix-server)** — Concurrent C/Linux key-value store using pthreads, `fork()`, and FIFO-based IPC.
+- **[Telegram Academic Digest](https://github.com/alopes0905/telegram-academic-digest)** — Python/Telethon tool for reliable, incremental exports of academic Telegram messages.
 
-
-- **[KVS-POSIX-Server](https://github.com/alopes0905/KVS-POSIX-Server)** — Linux key-value store with concurrent '.j'processing, non-blocking backups, and FIFO-based client/server subscriptions + notifications.  
-  'C' · 'POSIX' · 'pthreads' · 'FIFOs' · 'fork()' · 'Concurrency'
-
-
-- **[AI-Nuruomino-Solver](https://github.com/alopes0905/AI-Nuruomino-Solver)** — Python solver for the NURUOMINO (LITS) puzzle using backtracking/search with constraint pruning to satisfy adjacency, connectivity, and 2×2 rules.  
-  'Python' · 'Backtracking/DFS' · 'Constraint pruning' · 'Search heuristics'
-
-
----
-
-### Background
-- **IST Lisbon — BSc in Computer Science & Engineering**  
-  Coursework highlights: OOP, Logic for Programming, Computer Architecture, Computer Networks
-- **University of Hong Kong (HKU) — Digital Transformation in Global Business (July 2025)**  
-  Innovation + emerging technologies and strategic digital transformation
-
----
-
-### Training
-- IBM: **Beginner’s Guide to Cybersecurity** (Apr 2025)
-- CompTIA **Network+** — aligned training (Cisco Networking Academy), exam not taken
-- CompTIA **Security+** — exam preparation (TryHackMe), exam not taken
-- HP: **Generative AI Mastery: Revolutionizing Game Development** (May 2025)
-
----
-
-### Open to
-- Internships / junior roles in **IT operations**, **networking**, **systems**, and **security-minded engineering**
-- Hands-on projects involving **monitoring/troubleshooting**, **automation**, and **reliable deployments**
-- Collaboration on practical tooling that improves stability, visibility, or operational efficiency
-
----
-
-### Quick links
-- 📍 Lisbon, Portugal
-- 📫 amcarvalholopes@gmail.com
-- 🔗 https://www.linkedin.com/in/andre-carvalho-lopes
-- 💻 https://github.com/alopes0905
-
-<sub>Last updated: Dec 2025</sub>
-
-
+**Contact:** [LinkedIn](https://www.linkedin.com/in/andre-carvalho-lopes) · [Email](mailto:amcarvalholopes@gmail.com)
