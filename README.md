@@ -1,4 +1,4 @@
-# André Carvalho Lopes
+# André Miguel Carvalho Lopes
 
 MSc Cybersecurity student at **Sapienza University of Rome**, with a BSc in Computer Science and Engineering from **Instituto Superior Técnico**.
 
